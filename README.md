@@ -17,6 +17,8 @@ Will create stubs for:
 - Flight.of.the.Conchords.S2E07.mp4
 - Flight.of.the.Conchords.S2E08.mp4
 - Flight.of.the.Conchords.S2E09.mp4
+- Flight.of.the.Conchords.S2E10.mp4
+- Flight.of.the.Conchords.S2E11.mp4
 - Flight.of.the.Conchords.S2E12.mp4
 
 Which I then use with HandBrake to select as outputs when I rip from my source DVD.

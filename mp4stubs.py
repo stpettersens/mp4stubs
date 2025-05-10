@@ -1,5 +1,4 @@
 import os
-from glob import glob
 from pathlib import Path
 
 def get_show(directory: str) -> str:
